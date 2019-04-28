@@ -57,5 +57,3 @@ docs/_build/
 ._graphviz
 *.sw
 *.dot
-*.json
-*.png
