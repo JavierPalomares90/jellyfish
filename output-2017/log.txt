@@ -1,0 +1,42 @@
+Starting JellyFish Project
+Starting time is: Sat, 27 Apr 2019 21:52:35
+
+Step 1 Recreate Figure 1: Sat, 27 Apr 2019 21:52:35
+Generating a random network: Sat, 27 Apr 2019 21:52:35
+Finished generating a random network, starting k-shortest path: Sat, 27 Apr 2019 21:52:35
+Created Sets
+Counted paths p1
+Finished step 1: Sat, 27 Apr 2019 21:54:38
+
+Step 2 Analyzing random networks, generating 5 random network(s): Sat, 27 Apr 2019 21:54:38
+
+Finished generating 5 random networks, starting calculating global clustering coefficients of the networks: Sat, 27 Apr 2019 21:54:39
+	Start network 1: Sat, 27 Apr 2019 21:54:39
+	Start network 2: Sat, 27 Apr 2019 21:54:39
+	Start network 3: Sat, 27 Apr 2019 21:54:40
+	Start network 4: Sat, 27 Apr 2019 21:54:40
+	Start network 5: Sat, 27 Apr 2019 21:54:41
+Finished calculating global clustering coefficients, starting calculating local clustering coefficients of the networks: Sat, 27 Apr 2019 21:54:42
+	Start network 1: Sat, 27 Apr 2019 21:54:42
+	Start network 2: Sat, 27 Apr 2019 21:54:42
+	Start network 3: Sat, 27 Apr 2019 21:54:42
+	Start network 4: Sat, 27 Apr 2019 21:54:42
+	Start network 5: Sat, 27 Apr 2019 21:54:42
+Finished calculating local clustering coefficients, starting calculating diameters of the networks: Sat, 27 Apr 2019 21:54:42
+	Start network 1: Sat, 27 Apr 2019 21:54:42
+	Start network 2: Sat, 27 Apr 2019 21:55:20
+	Start network 3: Sat, 27 Apr 2019 21:55:56
+	Start network 4: Sat, 27 Apr 2019 21:56:31
+	Start network 5: Sat, 27 Apr 2019 21:57:08
+Finished calculating network diameters, starting calculating average shortest paths: Sat, 27 Apr 2019 21:57:44
+	Start network 1: Sat, 27 Apr 2019 21:57:44
+	Start network 2: Sat, 27 Apr 2019 21:57:45
+	Start network 3: Sat, 27 Apr 2019 21:57:45
+	Start network 4: Sat, 27 Apr 2019 21:57:46
+	Start network 5: Sat, 27 Apr 2019 21:57:46
+Finished calculating average shortest paths, starting calculating betweeness centrality: Sat, 27 Apr 2019 21:57:47
+	Start network 1: Sat, 27 Apr 2019 21:57:47
+	Start network 2: Sat, 27 Apr 2019 23:07:06
+	Start network 3: Sun, 28 Apr 2019 00:16:28
+	Start network 4: Sun, 28 Apr 2019 01:25:44
+	Start network 5: Sun, 28 Apr 2019 02:34:27
